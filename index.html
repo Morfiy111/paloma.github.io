@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Проект сайта Paloma</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
+<body>
+<div class="pages">
+    <div class="pages__project">Проект сайта Paloma</div>
+    <div class="pages__title">Готовность по проекту</div>
+    <ul class="pages__list">
+        <li class="pages__item pages__item_red">
+            <a href="paloma.html" target="_blank">
+                <span class="pages__name">Главная страница</span>
+                <span class="pages__href">paloma.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="catalog.html" target="_blank">
+                <span class="pages__name">Каталог</span>
+                <span class="pages__href">catalog.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="card.html" target="_blank">
+                <span class="pages__name">Карточка товара</span>
+                <span class="pages__href">card.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="contacts.html" target="_blank">
+                <span class="pages__name">Контакты</span>
+                <span class="pages__href">contacts.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="basket.html" target="_blank">
+                <span class="pages__name">Корзина</span>
+                <span class="pages__href">basket.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="lk.html" target="_blank">
+                <span class="pages__name">Личный кабинет</span>
+                <span class="pages__href">lk.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="sale.html" target="_blank">
+                <span class="pages__name">Распродажа</span>
+                <span class="pages__href">sale.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="about.html" target="_blank">
+                <span class="pages__name">О компании</span>
+                <span class="pages__href">about.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="politic.html" target="_blank">
+                <span class="pages__name">Политика конфиденциальности</span>
+                <span class="pages__href">politic.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="blog.html" target="_blank">
+                <span class="pages__name">Блог общая</span>
+                <span class="pages__href">blog.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="brands.html" target="_blank">
+                <span class="pages__name">Бренды</span>
+                <span class="pages__href">brands.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="brand.html" target="_blank">
+                <span class="pages__name">Бренд детальная</span>
+                <span class="pages__href">brand.html</span>
+            </a>
+        </li>
+
+        <li class="pages__item pages__item_red">
+            <a href="delivery.html" target="_blank">
+                <span class="pages__name">Доставка</span>
+                <span class="pages__href">delivery.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="favourites.html" target="_blank">
+                <span class="pages__name">Избранное</span>
+                <span class="pages__href">favourites.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="size.html" target="_blank">
+                <span class="pages__name">Выбрать размер</span>
+                <span class="pages__href">size.html</span>
+            </a>
+        </li>
+        <li class="pages__item pages__item_red">
+            <a href="formalize.html" target="_blank">
+                <span class="pages__name">Оформить заказ</span>
+                <span class="pages__href">formalize.html</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif; }
+
+    .pages {
+        display: flex;
+        flex-direction: column; }
+    .pages__project {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-size: 22px; }
+    .pages__title {
+        text-align: center;
+        font-size: 18px;
+        padding: 15px; }
+    .pages__list {
+        max-width: 700px;
+        width: 100%;
+        margin: 0 auto;
+        list-style-type: none; }
+    .pages__item {
+        background-color: #f0f0f0;
+        margin: 5px;
+        padding: 5px;
+        transition: background-color .1s ease-in-out; }
+    .pages__item a {
+        color: #ffffff;
+        text-decoration: none;
+        display: flex;
+        justify-content: space-between; }
+    .pages__item_green {
+        background-color: #85bb3d; }
+    .pages__item_green:hover {
+        background-color: #7fb43c; }
+    .pages__item_orange {
+        background-color: #ffa810; }
+    .pages__item_orange:hover {
+        background-color: #e99810; }
+    .pages__item_red {
+        background-color: #ff6653; }
+    .pages__item_red:hover {
+        background-color: #e8624f; }
+
+    @media (max-width: 700px) {
+        .pages .pages__list .pages__item .pages__href {
+            display: none; } }
+</style>
+<script>
+    $('a[href="#"]').attr('target','_self');
+</script>
+</body>
+</html>

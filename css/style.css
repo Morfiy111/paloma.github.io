@@ -1,0 +1,9 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+a, button, i {
+    transition: all .2s linear;
+}
+a:focus {
+    text-decoration: none;
+}
