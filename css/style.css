@@ -308,3 +308,29 @@ nav li:hover > .submenu {
 .category-links-text:hover:after {
     background-color: #de0588;
 }
+.category-item-block img {
+    width: 100%;
+    transition: all .2s linear;
+}
+.category-item-block img:hover {
+    transform: scale(1.1);
+}
+.category-item-block {
+    margin-right: 15px;
+    position: relative;
+    overflow: hidden;
+}
+.category-item-block:last-child {
+    margin-right: 0;
+}
+.category-text-block a {
+    color: #000;
+}
+.category-text-block a:hover {
+    color: #de0588;
+    text-decoration: none;
+}
+.category-text-block {
+    position: absolute;
+    bottom: 10px;
+}
