@@ -233,3 +233,77 @@ nav li:hover > .submenu {
     top: -1px;
     right: -1px;
 }
+.main-title-page {
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.main-title-page h2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.main-title-page:before, .main-title-page:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: 2px;
+    position: relative;
+    background-color: #e7e7e7;
+}
+.main-title-page:before {
+    margin-left: -100%;
+    left: -14px;
+}
+.main-title-page:after {
+    margin-right: -100%;
+    right: -14px;
+}
+.owl-carousel {
+    margin-bottom: 60px;
+}
+.category-links-text:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: 2px;
+    position: relative;
+    background-color: #e7e7e7;
+    margin-right: -100%;
+    right: -14px;
+}
+.category-links-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.category-links-text {
+    overflow: hidden;
+    position: absolute;
+    width: 160px;
+    right: 0;
+    bottom: 10px;
+}
+.category-links-item {
+    width: 32%;
+    position: relative;
+    overflow: hidden;
+}
+.category-links-item img {
+    width: 100%;
+    transition: all .2s linear;
+}
+.category-links-item img:hover {
+    transform: scale(1.1);
+}
+.category-links-text a {
+    color: #000;
+}
+.category-links-text a:hover {
+    color: #de0588;
+    text-decoration: none;
+}
+.category-links-text:hover:after {
+    background-color: #de0588;
+}
