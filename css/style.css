@@ -217,12 +217,13 @@ nav li:hover > .submenu {
     position: absolute;
     bottom: -1px;
     left: -1px;
+    transition: all .2s linear;
 }
 .main-button:hover::before, .main-button:hover::after {
-    height: 0;
+    width: 0;
 }
 .main-button:focus::before, .main-button:focus::after {
-    height: 0;
+    width: 0;
 }
 .main-button::after {
     content: '';
@@ -232,6 +233,7 @@ nav li:hover > .submenu {
     position: absolute;
     top: -1px;
     right: -1px;
+    transition: all .2s linear;
 }
 .main-title-page {
     overflow: hidden;
