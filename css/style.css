@@ -286,6 +286,9 @@ nav li:hover > .submenu {
     right: 0;
     bottom: 10px;
 }
+.category-links-text:hover a {
+    color: #de0588;
+}
 .category-links-item {
     width: 32%;
     position: relative;
