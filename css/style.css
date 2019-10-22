@@ -80,6 +80,10 @@ nav ul {
     right: 0;
     background-color: #ededed;
     padding: 40px;
+    background-image: url("../images/flower.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
 }
 .submenu li {
     position: relative;
@@ -201,6 +205,10 @@ nav li:hover > .submenu {
     text-decoration: none;
     color: #000;
 }
+.main-button:focus {
+    border-color: #de0588;
+    color: #000;
+}
 .main-button::before {
     content: '';
     background-color: #dfddde;
@@ -209,6 +217,12 @@ nav li:hover > .submenu {
     position: absolute;
     bottom: -1px;
     left: -1px;
+}
+.main-button:hover::before, .main-button:hover::after {
+    height: 0;
+}
+.main-button:focus::before, .main-button:focus::after {
+    height: 0;
 }
 .main-button::after {
     content: '';
