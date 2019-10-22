@@ -179,3 +179,43 @@ nav li:hover > .submenu {
     font-size: 30px;
     color: #1c1c1e;
 }
+.owl-absolute-block {
+    width: 450px;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+.owl-absolute-block h1 span {
+    font-size: 26px;
+}
+.owl-absolute-block p {
+    margin-bottom: 40px;
+}
+.main-button {
+    color: #000;
+    border: 1px solid #000;
+    padding: 20px 40px;
+    position: relative;
+}
+.main-button:hover {
+    text-decoration: none;
+    color: #000;
+}
+.main-button::before {
+    content: '';
+    background-color: #dfddde;
+    width: 100px;
+    height: 15px;
+    position: absolute;
+    bottom: -1px;
+    left: -1px;
+}
+.main-button::after {
+    content: '';
+    background-color: #dfddde;
+    width: 100px;
+    height: 15px;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+}
