@@ -277,6 +277,7 @@ nav li:hover > .submenu {
 .category-links-flex {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 60px;
 }
 .category-links-text {
     overflow: hidden;
