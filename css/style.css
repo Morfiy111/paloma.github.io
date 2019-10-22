@@ -57,7 +57,6 @@ nav ul {
 .topmenu > li > a {
     font-weight: bold;
     padding: 20px 30px;
-    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #1c1c1c;
@@ -96,13 +95,15 @@ nav ul {
     content: '•';
     position: absolute;
     left: 5px;
+    top: 0px;
+    font-size: 26px;
 }
 .submenu a {
     color: #1c1c1c;
     text-align: left;
     font-size: 14px;
     letter-spacing: 1px;
-    padding: 10px 20px;
+    padding: 6px 20px;
 }
 .submenu .submenu {
     position: absolute;
@@ -111,7 +112,7 @@ nav ul {
     left: -webkit-calc(100% - 1px);
 }
 .submenu > li {
-    width: 25%;
+    width: 24%;
     display: inline-block;
     vertical-align: top;
 }
@@ -120,7 +121,16 @@ nav li:hover > .submenu {
     opacity: 1;
     transform: translateY(0px);
 }
-.menu-list-title {
+.submenu .menu-list-title {
     font-weight: bold;
     font-size: 18px;
+}
+.menu-list-title {
+    margin-top: 30px;
+}
+.menu-list-title:first-child {
+    margin-top: 0;
+}
+.logo-header {
+    padding-left: 35px;
 }
