@@ -6,11 +6,12 @@ owl.owlCarousel({
     nav:true,
     dots:true,
     autoplay:true,
-    autoplayTimeout:3000,
+    autoplayTimeout:4000,
+    smartSpeed: 700,
     autoplayHoverPause:true
 });
 $('.play').on('click',function(){
-    owl.trigger('autoplay.play.owl',[3000])
+    owl.trigger('autoplay.play.owl',[4000])
 })
 $('.stop').on('click',function(){
     owl.trigger('autoplay.stop.owl')
