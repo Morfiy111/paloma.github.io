@@ -343,7 +343,7 @@ nav li:hover > .submenu {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 120px;
 }
 .main-brand-column .button-brands {
     color: #000;
@@ -381,9 +381,24 @@ nav li:hover > .submenu {
 }
 .flex-sale-cart-block {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .shares-image-block {
     margin: -80px 0px;
+}
+.main-button-light::after, .main-button-light::before {
+    background-color: #fafafa;
+}
+.main-button-light {
+    margin-top: 20px;
+    display: inline-block;
+}
+.big-pencent-shares {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.shares-image-block img {
+    width: 444px;
 }

@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="387" column="22" selection-start-line="387" selection-start-column="22" selection-end-line="387" selection-end-column="22" />
+            <state relative-caret-position="55">
+              <caret line="344" column="24" lean-forward="true" selection-start-line="344" selection-start-column="24" selection-end-line="344" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="350" column="40" selection-start-line="350" selection-start-column="20" selection-end-line="350" selection-end-column="40" />
+            <state relative-caret-position="324">
+              <caret line="355" column="64" selection-start-line="355" selection-start-column="47" selection-end-line="355" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -147,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571646335766</updated>
       <workItem from="1571646337223" duration="12594000" />
-      <workItem from="1571722458317" duration="23412000" />
+      <workItem from="1571722458317" duration="23882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36006000" />
+    <option name="totallyTimeSpent" value="36476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="38" width="1371" height="917" extended-state="0" />
@@ -199,15 +199,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="350" column="40" selection-start-line="350" selection-start-column="20" selection-end-line="350" selection-end-column="40" />
+        <state relative-caret-position="324">
+          <caret line="355" column="64" selection-start-line="355" selection-start-column="47" selection-end-line="355" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="387" column="22" selection-start-line="387" selection-start-column="22" selection-end-line="387" selection-end-column="22" />
+        <state relative-caret-position="55">
+          <caret line="344" column="24" lean-forward="true" selection-start-line="344" selection-start-column="24" selection-end-line="344" selection-end-column="24" />
         </state>
       </provider>
     </entry>
