@@ -66,6 +66,9 @@ nav ul {
     background-color: #ededed;
     text-decoration: none;
 }
+.topmenu > li:hover {
+    background-color: #ededed;
+}
 .submenu {
     position: absolute;
     z-index: 5;
@@ -81,8 +84,6 @@ nav ul {
 }
 .submenu li {
     position: relative;
-    float: left;
-    width: calc(100% / 2);
     text-align: left;
 }
 .submenu h3 {
@@ -110,7 +111,9 @@ nav ul {
     left: -webkit-calc(100% - 1px);
 }
 .submenu > li {
-    width: calc(100% / 2);
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
 }
 nav li:hover > .submenu {
     visibility: visible;
