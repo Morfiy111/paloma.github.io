@@ -343,6 +343,7 @@ nav li:hover > .submenu {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 80px;
 }
 .main-brand-column .button-brands {
     color: #000;
@@ -374,4 +375,15 @@ nav li:hover > .submenu {
 }
 .flex-brands-block img:hover {
     filter: grayscale(0%);
+}
+.grey-line-page {
+    background-color: #fafafa;
+}
+.flex-sale-cart-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shares-image-block {
+    margin: -80px 0px;
 }
