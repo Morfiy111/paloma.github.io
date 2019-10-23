@@ -7,6 +7,9 @@ a, button, i {
 a:focus {
     text-decoration: none;
 }
+.bold-text {
+    font-weight: bold;
+}
 .navbar-toggle .icon-bar {
     width: 30px;
     height: 2px;
@@ -385,6 +388,7 @@ nav li:hover > .submenu {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 40px 0;
 }
 .shares-image-block {
     margin: -80px 0px;
@@ -456,4 +460,34 @@ nav li:hover > .submenu {
 }
 .advantages-description p {
     color: #8f8f8f;
+}
+.follow-block-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.grey-line-page-flower {
+    position: relative;
+}
+.follow-block-flex .main-button-light {
+    margin-top: 0;
+}
+.follow-block-flex input {
+    border: none;
+    padding: 20px 30px;
+    color: #000;
+}
+.follow-block-flex input:focus {
+    outline: none;
+}
+.follow-block-flex input::placeholder {
+    color:#000;
+}
+.flower-left-absolute {
+    position: absolute;
+    left: 0;
+    bottom: -38px;
+}
+.flower-left-absolute img {
+    height: 305px;
 }
