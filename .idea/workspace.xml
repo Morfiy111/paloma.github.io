@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="529" column="57" selection-start-line="529" selection-start-column="57" selection-end-line="529" selection-end-column="57" />
+            <state relative-caret-position="268">
+              <caret line="562" column="33" selection-start-line="562" selection-start-column="33" selection-end-line="562" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="467" column="29" selection-start-line="467" selection-start-column="16" selection-end-line="467" selection-end-column="29" />
+            <state relative-caret-position="268">
+              <caret line="560" column="56" selection-start-line="560" selection-start-column="56" selection-end-line="560" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -78,16 +78,16 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/paloma.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/paloma.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-52" />
-    <option name="y" value="201" />
+    <option name="x" value="47" />
+    <option name="y" value="86" />
     <option name="width" value="1371" />
-    <option name="height" value="936" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -148,15 +148,15 @@
       <updated>1571646335766</updated>
       <workItem from="1571646337223" duration="12594000" />
       <workItem from="1571722458317" duration="24079000" />
-      <workItem from="1571808947788" duration="10981000" />
+      <workItem from="1571808947788" duration="16528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47654000" />
+    <option name="totallyTimeSpent" value="53201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-52" y="201" width="1371" height="936" extended-state="0" />
+    <frame x="47" y="86" width="1371" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574032" />
@@ -172,7 +172,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3221393" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.42528737" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -198,17 +198,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paloma.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="467" column="29" selection-start-line="467" selection-start-column="16" selection-end-line="467" selection-end-column="29" />
+        <state relative-caret-position="268">
+          <caret line="562" column="33" selection-start-line="562" selection-start-column="33" selection-end-line="562" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="529" column="57" selection-start-line="529" selection-start-column="57" selection-end-line="529" selection-end-column="57" />
+        <state relative-caret-position="268">
+          <caret line="560" column="56" selection-start-line="560" selection-start-column="56" selection-end-line="560" selection-end-column="56" />
         </state>
       </provider>
     </entry>
