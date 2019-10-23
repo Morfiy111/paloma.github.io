@@ -562,3 +562,7 @@ nav li:hover > .submenu {
     background-position-x: right;
     background-position-y: center;
 }
+.footer-flex-block {
+    display: flex;
+    justify-content: space-around;
+}
