@@ -465,6 +465,7 @@ nav li:hover > .submenu {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 30px;
 }
 .grey-line-page-flower {
     position: relative;
@@ -476,6 +477,7 @@ nav li:hover > .submenu {
     border: none;
     padding: 20px 30px;
     color: #000;
+    width: 60%;
 }
 .follow-block-flex input:focus {
     outline: none;
@@ -489,5 +491,42 @@ nav li:hover > .submenu {
     bottom: -38px;
 }
 .flower-left-absolute img {
-    height: 305px;
+    height: 327px;
+}
+.main-blog-item-title a {
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+}
+.main-blog-item-title a:hover {
+    color: #de0588;
+    text-decoration: none;
+}
+.main-blog-item-date {
+    color: #8f8f8f;
+    margin-bottom: 10px;
+}
+.main-blog-item-link a {
+    text-decoration: underline;
+    color: #000;
+}
+.main-blog-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.blog-main-item {
+    width: 32%;
+}
+.blog-main-item img {
+    width: 100%;
+}
+.main-blog-item-title {
+    margin: 10px 0;
+}
+.button-center {
+    text-align: center;
+}
+.button-center .main-button-light::after, .button-center .main-button-light::before {
+    background-color: #fff;
 }
