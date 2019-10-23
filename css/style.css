@@ -379,6 +379,7 @@ nav li:hover > .submenu {
 }
 .grey-line-page {
     background-color: #fafafa;
+    margin-bottom: 60px;
 }
 .flex-sale-cart-block {
     display: flex;
@@ -402,4 +403,57 @@ nav li:hover > .submenu {
 }
 .shares-image-block img {
     width: 444px;
+}
+.advantages-icon-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.main-advantages-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+.advantages-min-img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.big-text-advantages {
+    font-size: 30px;
+    padding: 20px 30px;
+}
+.min-advantages-item {
+    width: 190px;
+}
+.main-advantages-block .category-item-block {
+    position: relative;
+    width: 53%;
+}
+.advantages-description {
+    width: 74%;
+}
+.main-advantages-block .category-links-text {
+    left: 0;
+    font-size: 12px;
+}
+.main-advantages-block .category-links-text:after {
+    width: 34%;
+}
+.advantages-description > p {
+    width: 60%;
+}
+.advantages-icon-item {
+    text-align: center;
+    width: 28%;
+}
+.advantages-icon-title {
+    font-weight: bold;
+    text-align: left;
+    margin: 15px 0;
+}
+.advantages-icon-item p {
+    text-align: left;
+}
+.advantages-description p {
+    color: #8f8f8f;
 }
