@@ -565,4 +565,52 @@ nav li:hover > .submenu {
 .footer-flex-block {
     display: flex;
     justify-content: space-around;
+    padding: 50px 0;
+}
+.footer-flex-item a {
+    color: #000;
+}
+.footer-flex-item-link {
+    margin-bottom: 10px;
+}
+.footer-input::placeholder {
+    color: #000;
+}
+.footer-input {
+    padding: 6px 14px;
+    border: none;
+    background-color: transparent;
+}
+.footer-input:focus {
+    outline: none;
+}
+.border-footer {
+    border-bottom: 1px solid #8f8f8f;
+}
+.border-footer a:hover {
+    text-decoration: none;
+}
+.last-links-footer {
+    text-align: right;
+}
+.footer-flex-item:last-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.it-tehnology-text {
+    margin-bottom: 10px;
+}
+.footer-social-flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.footer-social-flex a {
+    width: 26%;
+    font-size: 22px;
+    text-align: center;
+}
+.footer-social-flex a:hover {
+    color: #de0588;
 }
