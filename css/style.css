@@ -614,3 +614,23 @@ nav li:hover > .submenu {
 .footer-social-flex a:hover {
     color: #de0588;
 }
+#burger-content {
+    position: fixed;
+    z-index: 9;
+    height: 100%;
+    width: 360px;
+    top: 0;
+    left: -370px;
+    overflow: auto;
+    padding: 13px 15px;
+    background: #fff;
+    transition: all ease-in-out .3s;
+}
+#burger-content.show {
+    left: 0;
+    z-index: 9;
+}
+.cart_content .continue {
+    cursor: pointer;
+    text-align: right;
+}
