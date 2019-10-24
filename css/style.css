@@ -215,7 +215,7 @@ nav li:hover > .submenu {
     position: absolute;
     bottom: 0;
     top: 0;
-    left: 3%;
+    left: 5.8%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -224,7 +224,7 @@ nav li:hover > .submenu {
     position: absolute;
     bottom: 0;
     top: 0;
-    right: 3%;
+    right: 5.8%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -233,20 +233,26 @@ nav li:hover > .submenu {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: 36px;
     color: #1c1c1e;
 }
 .owl-absolute-block {
-    width: 450px;
+    width: 535px;
     position: absolute;
-    top: 25%;
-    left: 10%;
+    top: 20%;
+    left: 15%;
+    letter-spacing: 1.4px;
+}
+.owl-absolute-block h1 {
+    font-size: 58px;
+    margin-top: 0;
 }
 .owl-absolute-block h1 span {
-    font-size: 26px;
+    font-size: 40px;
 }
 .owl-absolute-block p {
     margin-bottom: 40px;
+    padding-right: 10px;
 }
 .main-button {
     color: #000;
