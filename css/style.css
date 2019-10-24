@@ -338,9 +338,11 @@ nav li:hover > .submenu {
 .category-links-text {
     overflow: hidden;
     position: absolute;
-    width: 160px;
+    width: 190px;
     right: 0;
-    bottom: 10px;
+    bottom: 0px;
+    padding: 20px 20px;
+    background-color: #fff;
 }
 .category-links-text:hover a {
     color: #de0588;
@@ -391,7 +393,10 @@ nav li:hover > .submenu {
 }
 .category-text-block {
     position: absolute;
-    bottom: 10px;
+    bottom: 0;
+    padding: 20px;
+    z-index: 1;
+    background-color: #fff;
 }
 .flex-brands-block {
     display: flex;
