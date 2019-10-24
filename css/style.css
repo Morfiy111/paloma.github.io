@@ -237,7 +237,7 @@ nav li:hover > .submenu {
     color: #1c1c1e;
 }
 .owl-absolute-block {
-    width: 535px;
+    width: 555px;
     position: absolute;
     top: 20%;
     left: 15%;
@@ -846,4 +846,7 @@ button.close {
 }
 .modal-social-flex a:hover {
     color: #de0588;
+}
+.footer-logo {
+    margin-bottom: 20px;
 }
