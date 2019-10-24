@@ -261,7 +261,48 @@
         <div class="continue">
             <img src="images/close.png" alt="">
         </div>
-        <div class="box-heading">Ваш город</div>
+        <div class="modal-center-block">
+            <div class="modal-center-item">
+                <div class="burger-city-link">
+                    <i class="fa fa-map-marker" aria-hidden="true"></i>
+                    <span>Ваш город</span>
+                    <button type="button" data-target="#modal-burger" data-toggle="modal">Ростов-на-Дону</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modal-burger" tabindex="-1" role="dialog" aria-labelledby="modal-main" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Закрыть">
+                <span aria-hidden="true"><img src="images/close.png" alt=""></span>
+            </button>
+            <div class="modal-body">
+                <h3 class="modal-title-city">Выберите город</h3>
+                <div class="modal-city-block">
+                    <a href="#">Москва</a>
+                    <a href="#">Волгоград</a>
+                    <a href="#">Воронеж</a>
+                    <a href="#">Екатеринбург</a>
+                    <a href="#">Казань</a>
+                    <a href="#">Краснодар</a>
+                    <a href="#">Красноярск</a>
+                    <a href="#">Нижний Новгород</a>
+                    <a href="#">Новосибирск</a>
+                    <a href="#">Пермь</a>
+                    <a href="#">Ростов-на-Дону</a>
+                    <a href="#">Самара</a>
+                    <a href="#">Санкт-Петербург</a>
+                    <a href="#">Уфа</a>
+                    <a href="#">Челябинск</a>
+                </div>
+                <div class="modal-inputs">
+                    <input type="text" placeholder="Введите название города">
+                    <button class="button-modal-city">ВЫБРАТЬ</button>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <div class="owl-carousel">
@@ -568,7 +609,7 @@
                 <div class="it-tehnology-text">
                     Разработка и<br>поддержка сайта
                 </div>
-                <img src="images/it-factory.png" alt="">
+                <a href="#"><img src="images/it-factory.png" alt=""></a>
             </div>
         </div>
     </div>
