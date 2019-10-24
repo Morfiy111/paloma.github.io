@@ -34,6 +34,56 @@ a:focus {
     justify-content: space-around;
     border-bottom: 1px solid #e9e9e9;
 }
+.relative-content {
+    position: relative;
+}
+.relative-content button {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    z-index: 9999;
+    border: none;
+    background-color: transparent;
+}
+.relative-content button:focus {
+    outline: none;
+}
+.close-header-icon {
+    display: none;
+}
+.close-header-icon.show {
+    display: block;
+    width: 21px;
+    position: absolute;
+    top: 18px;
+}
+.main-page-search {
+    height: 60px;
+    z-index: 1111;
+    position: relative;
+    width: 100%;
+    border: none;
+    background-color: #fafafa;
+}
+.search-line-input {
+    background-color: #fafafa;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0;
+    transition: all .2s linear;
+}
+.search-line-input.show {
+    z-index: 1;
+    opacity: 1;
+}
+.main-page-search:focus {
+    outline: none;
+}
+.main-page-search::placeholder {
+    color: #000;
+}
 .header-icons a {
     margin-left: 30px;
 }
@@ -757,16 +807,16 @@ button.close {
 .navbar-toggle:hover .icon-bar {
     background-color: #de0588;
 }
-.header-icons a .header-icon-hover {
+.header-icons a .header-icon-hover, .button-search-input .header-icon-hover {
     display: none;
 }
-.header-icons a .header-icon-normal {
+.header-icons a .header-icon-normal, .button-search-input .header-icon-normal {
     display: block;
 }
-.header-icons a:hover .header-icon-normal {
+.header-icons a:hover .header-icon-normal, .button-search-input:hover .header-icon-normal{
     display: none;
 }
-.header-icons a:hover .header-icon-hover {
+.header-icons a:hover .header-icon-hover, .button-search-input:hover .header-icon-hover {
     display: block;
 }
 .header-icons {
@@ -785,4 +835,7 @@ button.close {
 }
 .modal-social-flex a:hover {
     color: #de0588;
+}
+.main-title-page {
+
 }

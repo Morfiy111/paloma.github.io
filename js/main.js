@@ -26,6 +26,16 @@ $('.continue').click(function(){
     $('#burger-content').toggleClass('show');
 });
 
+
+$(document).ready(function() {
+    $('.main-search-icon').bind('click', function () {
+        $('.search-line-input, .close-header-icon').toggleClass('show');
+    });
+});
+
+
+
+
 ( function( $ ) {
     $( document ).ready(function() {
         $('#menu-left-acide li.has-sub>a').on('click', function(){
@@ -47,3 +57,4 @@ $('.continue').click(function(){
         });
     });
 } )( jQuery );
+
