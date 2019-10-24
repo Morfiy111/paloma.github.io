@@ -58,3 +58,4 @@ $(document).ready(function() {
     });
 } )( jQuery );
 
+new WOW().init();
