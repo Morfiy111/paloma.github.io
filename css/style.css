@@ -369,7 +369,7 @@ nav li:hover > .submenu {
 }
 .category-item-block img {
     width: 100%;
-    transition: all .2s linear;
+    transition: all .1s linear;
 }
 .category-item-block img:hover {
     transform: scale(1.1);
