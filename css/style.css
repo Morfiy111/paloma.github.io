@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
-a, button, i {
+a, button {
     transition: all .2s linear;
 }
 a:focus {
@@ -682,4 +682,75 @@ button.close {
     position: relative;
     top: 15px;
     right: 15px;
+}
+.burger-city-link i {
+    margin-right: 5px;
+    color: #de0588;
+    border-bottom: 1px dashed transparent;
+}
+.burger-city-link button {
+    background-color: transparent;
+    color: #de0588;
+    border: none;
+    border-bottom: 1px dashed #de0588;
+    padding: 0;
+}
+.burger-city-link span {
+    border-bottom: 1px dashed transparent;
+    margin-right: 5px;
+}
+#menu-left-acide ul ul {
+    display: none;
+    list-style-type: disc;
+}
+.has-sub.open > a > i {
+    transform: rotate(180deg);
+}
+#menu-left-acide ul:first-child {
+    padding-left: 0;
+    list-style: none;
+}
+#menu-left-acide ul:nth-child(2) {
+    padding-left: 20px;
+    list-style: none;
+}
+#menu-left-acide ul .catalog-left-menu-disk {
+    list-style-type: disc;
+    margin: 10px 0;
+    display: block;
+}
+#menu-left-acide ul .catalog-left-menu-disk a {
+    color: #a9a9a9;
+}
+#menu-left-acide ul .catalog-left-menu-disk a:hover {
+    color: #de0588;
+}
+.has-sub .red-block-catalog, .red-block-catalog {
+    color: #a9a9a9;
+}
+#menu-left-acide a:hover {
+    color: #de0588;
+    text-decoration: none;
+}
+#menu-left-acide a {
+    cursor: pointer;
+    display: block;
+}
+.has-sub a {
+    color: #000;
+}
+.open > .second-menu-link{
+    text-decoration: underline;
+}
+#menu-left-acide > ul > li, #menu-left-acide > ul > li > ul li {
+    margin: 20px 0;
+}
+#menu-left-acide .catalog-left-menu-disk li {
+    margin: 5px 0;
+}
+#menu-left-acide > ul > li {
+    margin: 30px 0;
+}
+.burger-city-link {
+    margin-bottom: 80px;
 }
