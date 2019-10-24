@@ -754,3 +754,35 @@ button.close {
 .burger-city-link {
     margin-bottom: 80px;
 }
+.navbar-toggle:hover .icon-bar {
+    background-color: #de0588;
+}
+.header-icons a .header-icon-hover {
+    display: none;
+}
+.header-icons a .header-icon-normal {
+    display: block;
+}
+.header-icons a:hover .header-icon-normal {
+    display: none;
+}
+.header-icons a:hover .header-icon-hover {
+    display: block;
+}
+.header-icons {
+    display: flex;
+}
+#menu-left-acide {
+    margin-bottom: 80px;
+}
+.modal-social-flex {
+    display: flex;
+}
+.modal-social-flex a {
+    color: #000;
+    margin-right: 15px;
+    font-size: 22px;
+}
+.modal-social-flex a:hover {
+    color: #de0588;
+}
