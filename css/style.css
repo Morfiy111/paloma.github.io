@@ -114,10 +114,11 @@ nav ul {
 }
 .topmenu > li > a {
     font-weight: bold;
-    padding: 20px 30px;
+    padding: 18px 58px;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #1c1c1c;
+    font-size: 10px;
 }
 .topmenu > li > a:hover {
     background-color: #ededed;
