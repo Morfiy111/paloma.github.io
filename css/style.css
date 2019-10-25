@@ -1142,7 +1142,7 @@ button.close {
         width: 85px;
     }
     .footer-flex-item:last-child {
-        width: 23%;
+        width: auto;
     }
     .footer-flex-item:first-child {
         padding-left: 17px;
@@ -1153,4 +1153,19 @@ button.close {
     .footer-flex-item-link {
         margin-bottom: 11px;
     }
+    .last-links-footer {
+        text-align: left;
+    }
+    .footer-flex-item-width {
+        width: auto;
+    }
+    .news-border-bottom-mobile {
+        border-bottom: 1px dotted #000;
+    }
+    .footer-mobile .footer-flex-item-width {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-end;
+    }
+
 }
