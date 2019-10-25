@@ -896,6 +896,9 @@ button.close {
 .footer-logo {
     margin-bottom: 20px;
 }
+.advantages-description-mobile {
+    display: none;
+}
 @media (max-width: 991px) {
     .gamburger-block {
         padding-left: 40px;
@@ -921,9 +924,6 @@ button.close {
     }
     .header-icons {
         padding-right: 53px;
-    }
-    .container {
-        padding: 0px 15px;
     }
     nav {
         text-align: inherit;
@@ -965,5 +965,150 @@ button.close {
     }
     .main-button {
         padding: 13px 20px;
+    }
+    .container {
+        width: 750px;
+    }
+    .owl-carousel {
+        margin-bottom: 43px;
+    }
+    .main-title-page h2 {
+        font-size: 21px;
+    }
+    .main-title-page {
+        margin-bottom: 21px;
+    }
+    .category-links-flex {
+        padding: 0 47px;
+    }
+    .category-links-text {
+        width: 180px;
+    }
+    .category-links-text a {
+        font-size: 12px;
+    }
+    .category-links-flex {
+        margin-bottom: 38px;
+    }
+    .category-item-block {
+        width: 24%;
+        overflow: hidden;
+        height: 156px;
+    }
+    .category-text-block {
+        width: 100%;
+        padding: 0;
+        font-size: 12px;
+    }
+    .flex-brands-block {
+        padding: 0 47px;
+        margin-top: 0px;
+        margin-bottom: 65px;
+    }
+    .big-brand-column:first-child img {
+        width: 178px;
+    }
+    .main-brand-column .button-brands {
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+    .shares-cart-block-text {
+        padding-left: 46px;
+    }
+    .shares-cart-block-text h3 {
+        font-size: 27px;
+    }
+    .shares-image-block img {
+        width: 317px;
+    }
+    .big-pencent-shares {
+        margin-bottom: 26px;
+    }
+    .flex-sale-cart-block {
+        padding: 10px 0;
+    }
+    .big-pencent-shares {
+        margin-bottom: 22px;
+    }
+    .main-button-light {
+        margin-top: 30px;
+    }
+    .advantages-description {
+        display: none;
+    }
+    .main-advantages-block .category-item-block {
+        height: 372px;
+    }
+    .main-advantages-block {
+        margin-top: 15px;
+        padding: 0 47px;
+    }
+    .big-text-advantages {
+        font-size: 26px;
+        padding: 20px 3px;
+    }
+    .min-advantages-item {
+        width: 245px;
+    }
+    .main-advantages-block .category-links-text {
+        bottom: 0;
+    }
+    .advantages-min-img {
+        height: 295px;
+        overflow: hidden;
+    }
+    .advantages-description-mobile {
+        display: block;
+        display: flex;
+        flex-direction: column;
+        padding: 0 47px;
+    }
+    .main-advantages-block {
+        margin-bottom: 37px;
+    }
+    .advantages-description-mobile p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .advantages-icon-title {
+        text-align: center;
+        font-size: 15px;
+    }
+    .flex-follow-block .shares-cart-block-text {
+        text-align: center;
+    }
+    .flex-follow-block .shares-cart-block-text p {
+        padding: 0 122px;
+    }
+    .follow-block-flex {
+        justify-content: center;
+    }
+    .follow-block-flex input {
+        width: 57%;
+        margin-top: 20px;
+    }
+    .close-header-icon.show {
+        top: 15px;
+    }
+    .grey-line-page-flower {
+        margin-top: 46px;
+        margin-bottom: 26px;
+    }
+    .follow-block-flex input {
+        background-image: url("../images/send.png");
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: center;
+    }
+    .flower-left-absolute img {
+        height: 375px;
+    }
+    .flower-right-absolute {
+        position: absolute;
+        right: 0;
+        bottom: -48px;
+    }
+    .flower-right-absolute img {
+        height: 375px;
     }
 }
