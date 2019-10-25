@@ -11,7 +11,7 @@ a:focus {
     font-weight: bold;
 }
 .navbar-toggle .icon-bar {
-    width: 30px;
+    width: 24px;
     height: 2px;
     background-color: #4c4c4c;
 }
@@ -26,13 +26,16 @@ a:focus {
     margin-top: 7px;
 }
 .navbar-toggle .icon-bar:nth-of-type(2) {
-    width: 20px;
+    width: 14px;
 }
 .header-page-top {
     display: flex;
     align-items: center;
     justify-content: space-around;
     border-bottom: 1px solid #e9e9e9;
+}
+.logo-header img {
+    width: 136px;
 }
 .relative-content {
     position: relative;
@@ -85,10 +88,11 @@ a:focus {
     color: #000;
 }
 .header-icons a {
-    margin-left: 30px;
+    margin-left: 35px;
 }
 .gamburger-block, .logo-header {
     width: 33.3%;
+    padding-left: 17px;
 }
 nav {
     text-align: center;
@@ -189,7 +193,7 @@ nav li:hover > .submenu {
     margin-top: 0;
 }
 .logo-header {
-    padding-left: 35px;
+    padding-left: 62px;
 }
 .owl-dot {
     width: 12px;
@@ -832,6 +836,7 @@ button.close {
 }
 .header-icons {
     display: flex;
+    padding-right: 32px;
 }
 #menu-left-acide {
     margin-bottom: 80px;
