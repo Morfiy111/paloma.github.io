@@ -947,4 +947,23 @@ button.close {
     .owl-next {
         right: 2.2%;
     }
+    .owl-absolute-block h1 {
+        font-size: 44px;
+        text-align: left;
+        margin-bottom: 54px;
+    }
+    .owl-absolute-block {
+        top: 24%;
+        left: 7%;
+        text-align: left;
+    }
+    .owl-absolute-block h1 span {
+        font-size: 29px;
+    }
+    .owl-absolute-block p {
+        display: none;
+    }
+    .main-button {
+        padding: 13px 20px;
+    }
 }
