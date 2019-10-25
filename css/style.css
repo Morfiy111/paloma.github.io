@@ -1111,4 +1111,46 @@ button.close {
     .flower-right-absolute img {
         height: 375px;
     }
+    .main-blog-flex {
+        padding: 0 47px;
+        margin-bottom: 7px;
+    }
+    .flex-instagram {
+        padding: 0 47px;
+    }
+    .button-center {
+        margin-bottom: 42px;
+    }
+    .footer-logo {
+        text-align: center;
+        padding-top: 26px;
+        margin-bottom: 6px;
+    }
+    .footer-copyright {
+        text-align: center;
+        font-size: 12px;
+        margin-bottom: 24px;
+    }
+    .mobile-footer-links-flex {
+        display: flex;
+        justify-content: space-around;
+    }
+    .footer-grey {
+        margin-top: 93px;
+    }
+    .footer-logo img {
+        width: 85px;
+    }
+    .footer-flex-item:last-child {
+        width: 23%;
+    }
+    .footer-flex-item:first-child {
+        padding-left: 17px;
+    }
+    footer-flex-item:nth-child(2) {
+        padding-left: 45px;
+    }
+    .footer-flex-item-link {
+        margin-bottom: 11px;
+    }
 }

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7368179-0958-48e3-9e40-a5d1239678ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paloma.html" beforeDir="false" afterPath="$PROJECT_DIR$/paloma.html" afterDir="false" />
     </list>
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="1094" column="28" selection-start-line="1094" selection-start-column="28" selection-end-line="1094" selection-end-column="28" />
+            <state relative-caret-position="437">
+              <caret line="1154" column="5" selection-start-line="1154" selection-start-column="5" selection-end-line="1154" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -54,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="619" column="37" lean-forward="true" selection-start-line="619" selection-start-column="16" selection-end-line="619" selection-end-column="37" />
+            <state relative-caret-position="213">
+              <caret line="785" column="39" selection-start-line="785" selection-start-column="39" selection-end-line="785" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -108,8 +107,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="123" />
-    <option name="y" value="88" />
+    <option name="x" value="-46" />
+    <option name="y" value="127" />
     <option name="width" value="1371" />
     <option name="height" value="910" />
   </component>
@@ -174,15 +173,15 @@
       <workItem from="1571722458317" duration="24079000" />
       <workItem from="1571808947788" duration="20748000" />
       <workItem from="1571895190590" duration="24454000" />
-      <workItem from="1571982517231" duration="19286000" />
+      <workItem from="1571982517231" duration="20941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101161000" />
+    <option name="totallyTimeSpent" value="102816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="123" y="88" width="1371" height="910" extended-state="0" />
+    <frame x="-46" y="127" width="1371" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657555" />
@@ -236,15 +235,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="619" column="37" lean-forward="true" selection-start-line="619" selection-start-column="16" selection-end-line="619" selection-end-column="37" />
+        <state relative-caret-position="213">
+          <caret line="785" column="39" selection-start-line="785" selection-start-column="39" selection-end-line="785" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="1094" column="28" selection-start-line="1094" selection-start-column="28" selection-end-line="1094" selection-end-column="28" />
+        <state relative-caret-position="437">
+          <caret line="1154" column="5" selection-start-line="1154" selection-start-column="5" selection-end-line="1154" selection-end-column="5" />
         </state>
       </provider>
     </entry>
