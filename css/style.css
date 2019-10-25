@@ -7,6 +7,10 @@ a, button {
 a:focus {
     text-decoration: none;
 }
+.container {
+    width: 1200px;
+    padding: 0;
+}
 .bold-text {
     font-weight: bold;
 }
@@ -306,12 +310,13 @@ nav li:hover > .submenu {
 .main-title-page {
     overflow: hidden;
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 48px;
 }
 .main-title-page h2 {
     display: inline-block;
     vertical-align: middle;
     margin-top: 10px;
+    font-size: 25px;
 }
 .main-title-page:before, .main-title-page:after {
     content: "";
@@ -347,7 +352,7 @@ nav li:hover > .submenu {
 .category-links-flex {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 60px;
+    margin-bottom: 77px;
 }
 .category-links-text {
     overflow: hidden;
@@ -417,6 +422,7 @@ nav li:hover > .submenu {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 120px;
+    margin-top: 64px;
 }
 .main-brand-column .button-brands {
     color: #000;
@@ -424,6 +430,7 @@ nav li:hover > .submenu {
     display: block;
     text-align: center;
     padding: 30px;
+    margin-bottom: 30px;
 }
 .main-brand-column img {
     width: 100%;
@@ -438,8 +445,11 @@ nav li:hover > .submenu {
 .main-brand-column a {
     display: block;
 }
-.big-brand-column img {
-    width: 282px;
+.big-brand-column:first-child {
+    margin-left: 0;
+}
+.big-brand-column:first-child img {
+    width: 323px;
 }
 .main-brand-column .button-brands:hover {
     text-decoration: none;
@@ -456,9 +466,20 @@ nav li:hover > .submenu {
 }
 .flex-sale-cart-block {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 40px 0;
+}
+.shares-cart-block-text h3 {
+    font-size: 28px;
+    margin-top: 22px;
+}
+.shares-cart-block-text {
+    font-size: 17px;
+}
+.shares-cart-block-text {
+    padding-left: 78px;
+    line-height: 1;
 }
 .shares-image-block {
     margin: -80px 0px;
@@ -467,13 +488,14 @@ nav li:hover > .submenu {
     background-color: #fafafa;
 }
 .main-button-light {
-    margin-top: 20px;
+    margin-top: 24px;
     display: inline-block;
+    padding: 20px 36px;
 }
 .big-pencent-shares {
     font-weight: bold;
-    font-size: 40px;
-    margin-bottom: 10px;
+    font-size: 48px;
+    margin-bottom: 15px;
 }
 .shares-image-block img {
     width: 444px;
@@ -481,11 +503,13 @@ nav li:hover > .submenu {
 .advantages-icon-flex {
     display: flex;
     justify-content: space-between;
+    margin-top: 36px;
 }
 .main-advantages-block {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 60px;
+    margin-bottom: 142px;
+    margin-top: 78px;
 }
 .advantages-min-img {
     display: flex;
@@ -493,18 +517,19 @@ nav li:hover > .submenu {
     align-items: center;
 }
 .big-text-advantages {
-    font-size: 30px;
-    padding: 20px 30px;
+    font-size: 40px;
+    padding: 20px 48px;
 }
 .min-advantages-item {
-    width: 190px;
+    width: 274px;
 }
 .main-advantages-block .category-item-block {
     position: relative;
-    width: 53%;
+    width: 79%;
 }
 .advantages-description {
-    width: 74%;
+    width: 59%;
+    padding-top: 68px;
 }
 .main-advantages-block .category-links-text {
     left: 0;
@@ -514,7 +539,8 @@ nav li:hover > .submenu {
     width: 34%;
 }
 .advantages-description > p {
-    width: 60%;
+    width: 85%;
+    font-size: 15px;
 }
 .advantages-icon-item {
     text-align: center;
@@ -523,7 +549,11 @@ nav li:hover > .submenu {
 .advantages-icon-title {
     font-weight: bold;
     text-align: left;
-    margin: 15px 0;
+    margin: 10px 0;
+    font-size: 13px;
+}
+.main-advantages-block .category-links-text {
+    bottom: 15px;
 }
 .advantages-icon-item p {
     text-align: left;
@@ -549,6 +579,9 @@ nav li:hover > .submenu {
     color: #000;
     width: 60%;
 }
+.flex-follow-block .shares-image-block img {
+    width: 600px;
+}
 .follow-block-flex input:focus {
     outline: none;
 }
@@ -558,15 +591,18 @@ nav li:hover > .submenu {
 .flower-left-absolute {
     position: absolute;
     left: 0;
-    bottom: -38px;
+    bottom: -48px;
 }
 .flower-left-absolute img {
     height: 327px;
 }
+.flex-follow-block {
+    margin-bottom: 57px;
+}
 .main-blog-item-title a {
     color: #000;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
 }
 .main-blog-item-title a:hover {
     color: #de0588;
@@ -620,7 +656,7 @@ nav li:hover > .submenu {
 }
 .footer-grey {
     background-color: #fafafa;
-    margin-top: 80px;
+    margin-top: 135px;
 }
 .footer-flex-item-link-title {
     font-weight: bold;
@@ -640,7 +676,7 @@ nav li:hover > .submenu {
     color: #000;
 }
 .footer-flex-item-link {
-    margin-bottom: 10px;
+    margin-bottom: 13px;
 }
 .footer-input::placeholder {
     color: #000;
@@ -649,6 +685,7 @@ nav li:hover > .submenu {
     padding: 6px 14px;
     border: none;
     background-color: transparent;
+    margin-top: 15px;
 }
 .footer-input:focus {
     outline: none;

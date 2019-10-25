@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7368179-0958-48e3-9e40-a5d1239678ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paloma.html" beforeDir="false" afterPath="$PROJECT_DIR$/paloma.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="259" column="23" lean-forward="true" selection-start-line="259" selection-start-column="23" selection-end-line="259" selection-end-column="23" />
+            <state relative-caret-position="437">
+              <caret line="687" column="21" selection-start-line="687" selection-start-column="21" selection-end-line="687" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="475" column="28" selection-start-line="475" selection-start-column="28" selection-end-line="475" selection-end-column="28" />
+            <state relative-caret-position="146">
+              <caret line="601" column="58" selection-start-line="601" selection-start-column="41" selection-end-line="601" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -87,6 +88,7 @@
       <find>fadeIn</find>
       <find>ваш</find>
       <find>новая</find>
+      <find>flex-sale-cart-block</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="28" />
+    <option name="x" value="-4" />
+    <option name="y" value="93" />
     <option name="width" value="1371" />
     <option name="height" value="910" />
   </component>
@@ -169,15 +171,15 @@
       <workItem from="1571722458317" duration="24079000" />
       <workItem from="1571808947788" duration="20748000" />
       <workItem from="1571895190590" duration="24454000" />
-      <workItem from="1571982517231" duration="4208000" />
+      <workItem from="1571982517231" duration="9004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86083000" />
+    <option name="totallyTimeSpent" value="90879000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="28" width="1371" height="910" extended-state="0" />
+    <frame x="-4" y="93" width="1371" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657555" />
@@ -231,15 +233,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="475" column="28" selection-start-line="475" selection-start-column="28" selection-end-line="475" selection-end-column="28" />
+        <state relative-caret-position="146">
+          <caret line="601" column="58" selection-start-line="601" selection-start-column="41" selection-end-line="601" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="259" column="23" lean-forward="true" selection-start-line="259" selection-start-column="23" selection-end-line="259" selection-end-column="23" />
+        <state relative-caret-position="437">
+          <caret line="687" column="21" selection-start-line="687" selection-start-column="21" selection-end-line="687" selection-end-column="21" />
         </state>
       </provider>
     </entry>
