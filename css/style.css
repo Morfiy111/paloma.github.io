@@ -21,6 +21,7 @@ a:focus {
 .navbar-toggle {
     float: none;
     display: block;
+    margin-bottom: 1px;
 }
 .navbar-toggle .icon-bar + .icon-bar {
     margin-top: 7px;
@@ -92,7 +93,7 @@ a:focus {
 }
 .gamburger-block, .logo-header {
     width: 33.3%;
-    padding-left: 17px;
+    padding-left: 26px;
 }
 nav {
     text-align: center;
