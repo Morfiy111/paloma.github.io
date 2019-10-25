@@ -258,7 +258,7 @@ nav li:hover > .submenu {
     font-size: 37px;
 }
 .owl-absolute-block p {
-    margin-bottom: 83px;
+    margin-bottom: 93px;
     padding-right: 10px;
 }
 .main-button {
@@ -267,6 +267,7 @@ nav li:hover > .submenu {
     padding: 17px 40px;
     position: relative;
     transition: all .2s linear;
+    font-size: 12px;
 }
 .main-button:hover {
     text-decoration: none;
