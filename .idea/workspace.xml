@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7368179-0958-48e3-9e40-a5d1239678ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="921" column="5" selection-start-line="921" selection-start-column="5" selection-end-line="921" selection-end-column="5" />
+            <state relative-caret-position="437">
+              <caret line="1107" column="21" selection-start-line="1107" selection-start-column="21" selection-end-line="1107" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -106,8 +107,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-179" />
-    <option name="y" value="71" />
+    <option name="x" value="-244" />
+    <option name="y" value="62" />
     <option name="width" value="1371" />
     <option name="height" value="910" />
   </component>
@@ -173,15 +174,15 @@
       <workItem from="1571808947788" duration="20748000" />
       <workItem from="1571895190590" duration="24454000" />
       <workItem from="1571982517231" duration="24263000" />
-      <workItem from="1572240922225" duration="8542000" />
+      <workItem from="1572240922225" duration="9346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114680000" />
+    <option name="totallyTimeSpent" value="115484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-179" y="71" width="1371" height="910" extended-state="0" />
+    <frame x="-244" y="62" width="1371" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27031133" />
@@ -226,13 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="112" column="47" selection-start-line="112" selection-start-column="47" selection-end-line="112" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -240,10 +234,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="112" column="47" selection-start-line="112" selection-start-column="47" selection-end-line="112" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="921" column="5" selection-start-line="921" selection-start-column="5" selection-end-line="921" selection-end-column="5" />
+        <state relative-caret-position="437">
+          <caret line="1107" column="21" selection-start-line="1107" selection-start-column="21" selection-end-line="1107" selection-end-column="21" />
         </state>
       </provider>
     </entry>

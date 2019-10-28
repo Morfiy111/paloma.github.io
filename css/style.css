@@ -929,9 +929,15 @@ button.close {
     nav {
         text-align: inherit;
     }
+    .flex-follow-block .shares-cart-block-text {
+        padding-left: 0;
+    }
+    .flex-follow-block .shares-cart-block-text h3 {
+        margin-bottom: 20px;
+    }
     .topmenu > li > a {
         font-size: 12px;
-        padding: 18px 34px;
+        padding: 18px 30px;
     }
     .owl-carousel-item-block {
         text-align: center;
@@ -1077,16 +1083,29 @@ button.close {
     }
     .flex-follow-block .shares-cart-block-text {
         text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 61%;
+        align-items: center;
     }
     .flex-follow-block .shares-cart-block-text p {
-        padding: 0 122px;
+        line-height: 1.3;
+    }
+    .flex-follow-block {
+        display: flex;
+        justify-content: center;
     }
     .follow-block-flex {
         justify-content: center;
+        width: 81%;
     }
     .follow-block-flex input {
-        width: 57%;
+        width: 100%;
         margin-top: 20px;
+    }
+    .follow-block-flex {
+        margin-top: 0;
     }
     .close-header-icon.show {
         top: 15px;
