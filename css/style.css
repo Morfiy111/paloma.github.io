@@ -1220,3 +1220,54 @@ button.close {
         width: 49%;
     }
 }
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+    }
+    .navbar-toggle {
+        margin-top: 7px;
+        margin-bottom: 7px;
+        padding-left: 23px;
+        padding-right: 0;
+    }
+    .header-page-top {
+        position: relative;
+    }
+    .gamburger-block {
+        padding-left: 0;
+    }
+    .mobile-header-icons {
+        padding: 0;
+    }
+    .mobile-header-icons a {
+        margin-left: 0;
+    }
+    .logo-header {
+        padding-left: 20px;
+    }
+    .logo-header img {
+        width: 87px;
+    }
+    .header-page-top {
+        justify-content: space-between;
+    }
+    .gamburger-block {
+        width: auto;
+    }
+    .header-icons {
+        padding-right: 22px;
+    }
+    .header-icons a {
+        margin-left: 15px;
+    }
+    .logo-header {
+        padding-left: 10px;
+    }
+    .mobile-header-icons {
+        padding-right: 10px;
+    }
+    .mobile-header-icons .main-search-icon {
+        margin-left: 0;
+        padding-right: 0;
+    }
+}
