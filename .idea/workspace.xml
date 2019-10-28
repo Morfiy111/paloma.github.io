@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="1321" column="5" selection-start-line="1321" selection-start-column="5" selection-end-line="1321" selection-end-column="5" />
+            <state relative-caret-position="332">
+              <caret line="1414" column="28" selection-start-line="1414" selection-start-column="28" selection-end-line="1414" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="482" column="52" selection-start-line="482" selection-start-column="52" selection-end-line="482" selection-end-column="52" />
+            <state relative-caret-position="341">
+              <caret line="607" column="97" selection-start-line="607" selection-start-column="97" selection-end-line="607" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -91,6 +91,8 @@
       <find>flex-sale-cart-block</find>
       <find>main-men</find>
       <find>advantages-description</find>
+      <find>main-brand-column</find>
+      <find>advantages-description-mobile</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-260" />
-    <option name="y" value="68" />
+    <option name="x" value="37" />
+    <option name="y" value="10" />
     <option name="width" value="1371" />
     <option name="height" value="910" />
   </component>
@@ -174,15 +176,15 @@
       <workItem from="1571808947788" duration="20748000" />
       <workItem from="1571895190590" duration="24454000" />
       <workItem from="1571982517231" duration="24263000" />
-      <workItem from="1572240922225" duration="12404000" />
+      <workItem from="1572240922225" duration="22034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118542000" />
+    <option name="totallyTimeSpent" value="128172000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-260" y="68" width="1371" height="910" extended-state="0" />
+    <frame x="37" y="10" width="1371" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27031133" />
@@ -236,15 +238,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="482" column="52" selection-start-line="482" selection-start-column="52" selection-end-line="482" selection-end-column="52" />
+        <state relative-caret-position="341">
+          <caret line="607" column="97" selection-start-line="607" selection-start-column="97" selection-end-line="607" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="1321" column="5" selection-start-line="1321" selection-start-column="5" selection-end-line="1321" selection-end-column="5" />
+        <state relative-caret-position="332">
+          <caret line="1414" column="28" selection-start-line="1414" selection-start-column="28" selection-end-line="1414" selection-end-column="28" />
         </state>
       </provider>
     </entry>

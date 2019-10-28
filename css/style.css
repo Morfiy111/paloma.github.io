@@ -1319,5 +1319,105 @@ button.close {
     .category-links-text {
         width: 100%;
         position: inherit;
+        padding: 0;
+    }
+    .category-links-flex {
+        margin: 0 -38px 40px -38px;
+    }
+    .mobile-category-items {
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 0 25px;
+    }
+    .mobile-category-items .category-item-block {
+        width: 47%;
+        margin-bottom: 20px;
+    }
+    .category-item-block {
+        margin-right: 0;
+    }
+    .mobile-link-more {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .mobile-link-more a {
+        display: inline-block;
+        border-bottom: 1px solid #000;
+        color: #000;
+        padding-top: 8px;
+        font-size: 12px;
+    }
+    .flex-brands-block {
+        padding: 0 25px;
+    }
+    .big-brand-column:first-child img {
+        width: 147px;
+    }
+    .main-brand-column .button-brands {
+        padding: 3px;
+    }
+    .flex-sale-cart-block {
+        flex-direction: column-reverse;
+    }
+    .shares-image-block {
+        text-align: center;
+        margin: 0;
+    }
+    .flex-brands-block {
+        margin-bottom: 33px;
+    }
+    .shares-image-block img {
+        width: 49%;
+    }
+    .shares-cart-block-text {
+        padding-left: 0;
+        text-align: center;
+    }
+    .shares-cart-block-text h3 {
+        font-size: 19px;
+        margin-top: 0;
+    }
+    .big-pencent-shares {
+        font-size: 34px;
+        margin-bottom: 10px;
+    }
+    .main-button-light {
+        margin-top: 8px;
+    }
+    .main-advantages-block {
+        padding: 0 25px;
+    }
+    .main-advantages-block {
+        align-items: flex-start;
+        position: relative;
+    }
+    .main-advantages-block .category-item-block {
+        height: auto;
+        margin-right: 10px;
+    }
+    .advantages-min-img {
+        align-items: flex-start;
+    }
+    .main-advantages-block .category-links-text {
+        position: absolute;
+    }
+    .advantages-min-img {
+        height: auto;
+    }
+    .min-advantages-item {
+        width: 123px;
+    }
+    .advantages-description-mobile {
+        padding: 0 25px;
+    }
+    .big-text-advantages-mobile {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .advantages-description-mobile p {
+        text-align: left;
+    }
+    .main-advantages-block {
+        margin-bottom: 15px;
     }
 }
