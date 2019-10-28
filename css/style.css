@@ -1286,7 +1286,38 @@ button.close {
         padding-right: 10px;
     }
     .mobile-header-icons .main-search-icon {
-        margin-left: 0;
-        padding-right: 0;
+        margin-left: -15px;
+    }
+    .main-menu-block {
+        display: none;
+    }
+    .owl-carousel .owl-item img {
+        height: 340px;
+    }
+    .owl-absolute-block h1 {
+        font-size: 17px;
+        line-height: 1.2;
+    }
+    .owl-absolute-block {
+        width: 256px;
+        position: absolute;
+        top: 44%;
+        left: 13%;
+    }
+    .owl-absolute-block h1 span {
+        font-size: 14px;
+    }
+    .main-title-page h2 {
+        font-size: 18px;
+    }
+    .owl-carousel {
+        margin-bottom: 22px;
+    }
+    .category-links-flex {
+        padding: 0;
+    }
+    .category-links-text {
+        width: 100%;
+        position: inherit;
     }
 }
