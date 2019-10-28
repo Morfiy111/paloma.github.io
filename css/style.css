@@ -1216,4 +1216,7 @@ button.close {
         margin-right: 10px;
         font-size: 20px;
     }
+    .submenu > li {
+        width: 49%;
+    }
 }
