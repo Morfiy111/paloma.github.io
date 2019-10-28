@@ -726,7 +726,7 @@ nav li:hover > .submenu {
     height: 100%;
     width: 520px;
     top: 0;
-    left: -520px;
+    left: -700px;
     overflow: auto;
     padding: 13px 15px;
     background: #fff;
@@ -841,6 +841,7 @@ button.close {
 #menu-left-acide a {
     cursor: pointer;
     display: block;
+    font-size: 18px;
 }
 .has-sub a {
     color: #000;
@@ -1192,5 +1193,27 @@ button.close {
     .tablet-social-footer .modal-social-flex a {
         margin-right: 25px;
         font-size: 27px;
+    }
+    #burger-content {
+        width: 546px;
+    }
+    .cart_content .continue {
+        position: relative;
+        top: 23px;
+        right: 13px;
+    }
+    .modal-center-block {
+        justify-content: flex-start;
+    }
+    .modal-center-item {
+        padding-left: 40px;
+    }
+    .burger-city-link {
+        margin-top: 73px;
+        font-size: 16px;
+    }
+    .burger-city-link i {
+        margin-right: 10px;
+        font-size: 20px;
     }
 }
