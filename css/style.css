@@ -918,7 +918,7 @@ button.close {
         width: 120px;
     }
     .logo-header {
-        padding-left: 58px;
+        padding-left: 40px;
     }
     .header-icons a {
         margin-left: 25px;
@@ -931,7 +931,7 @@ button.close {
     }
     .topmenu > li > a {
         font-size: 12px;
-        padding: 18px 28px;
+        padding: 18px 34px;
     }
     .owl-carousel-item-block {
         text-align: center;
