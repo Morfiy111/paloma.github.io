@@ -1534,5 +1534,6 @@ button.close {
     }
     #burger-content {
         width: 100%;
+        background-image: none;
     }
 }
