@@ -593,7 +593,6 @@ nav li:hover > .submenu {
 .flower-left-absolute {
     position: absolute;
     left: 0;
-    bottom: -48px;
 }
 .flower-left-absolute img {
     height: 327px;
