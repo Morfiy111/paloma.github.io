@@ -1427,4 +1427,34 @@ button.close {
         text-align: left;
         font-size: 14px;
     }
+    .flex-follow-block .shares-cart-block-text {
+        width: 68%;
+    }
+    .flower-left-absolute {
+        left: -27px;
+        bottom: 83px;
+    }
+    .flower-right-absolute {
+        right: -27px;
+        bottom: 83px;
+    }
+    .flower-left-absolute img, .flower-right-absolute img {
+        height: 200px;
+    }
+    .flex-follow-block .shares-cart-block-text h3 {
+        margin-bottom: 10px;
+    }
+    .follow-block-flex {
+        z-index: 1;
+        width: 110%;
+    }
+    .follow-block-flex input {
+        width: 105%;
+    }
+    .advantages-icon-flex {
+        margin-top: 20px;
+    }
+    .flex-follow-block {
+        padding: 26px 0;
+    }
 }
