@@ -1599,4 +1599,13 @@ button.close {
         margin-right: 0;
         margin-bottom: 15px;
     }
+    .search-line-input.show {
+        z-index: 11;
+    }
+    .main-page-search {
+        padding: 15px;
+    }
+    .relative-content button {
+        top: 20px;
+    }
 }
