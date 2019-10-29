@@ -1457,4 +1457,10 @@ button.close {
     .flex-follow-block {
         padding: 26px 0;
     }
+    .flex-follow-block {
+        margin-bottom: 25px;
+    }
+    .main-blog-flex {
+        padding: 0 25px;
+    }
 }
