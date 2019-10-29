@@ -522,14 +522,14 @@ nav li:hover > .submenu {
     padding: 20px 48px;
 }
 .min-advantages-item {
-    width: 250px;
+    width: 261px;
 }
 .main-advantages-block .category-item-block {
     position: relative;
     width: 79%;
 }
 .advantages-description {
-    width: 59%;
+    width: 64%;
     padding-top: 68px;
 }
 .main-advantages-block .category-links-text {
@@ -554,7 +554,7 @@ nav li:hover > .submenu {
     font-size: 13px;
 }
 .main-advantages-block .category-links-text {
-    bottom: 15px;
+    bottom: 0;
 }
 .advantages-icon-item p {
     text-align: left;
