@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7368179-0958-48e3-9e40-a5d1239678ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/advantages1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/advantages1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/main-links1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/main-links2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/main-links3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/paloma.html" beforeDir="false" afterPath="$PROJECT_DIR$/paloma.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paloma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="515" column="61" selection-start-line="515" selection-start-column="61" selection-end-line="515" selection-end-column="61" />
+            <state relative-caret-position="106">
+              <caret line="524" column="10" lean-forward="true" selection-start-line="524" selection-start-column="10" selection-end-line="524" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -116,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="49" />
     <option name="y" value="65" />
     <option name="width" value="1371" />
@@ -185,18 +181,18 @@
       <workItem from="1571895190590" duration="24454000" />
       <workItem from="1571982517231" duration="24263000" />
       <workItem from="1572240922225" duration="22054000" />
-      <workItem from="1572327035784" duration="18456000" />
+      <workItem from="1572327035784" duration="18648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146648000" />
+    <option name="totallyTimeSpent" value="146840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="65" width="1371" height="851" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27486712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27486712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,7 +205,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2573018" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2573018" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -254,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paloma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="515" column="61" selection-start-line="515" selection-start-column="61" selection-end-line="515" selection-end-column="61" />
+        <state relative-caret-position="106">
+          <caret line="524" column="10" lean-forward="true" selection-start-line="524" selection-start-column="10" selection-end-line="524" selection-end-column="10" />
         </state>
       </provider>
     </entry>
