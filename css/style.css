@@ -1,5 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
 }
 a, button {
     transition: all .2s linear;
@@ -1462,5 +1463,76 @@ button.close {
     }
     .main-blog-flex {
         padding: 0 25px;
+    }
+    .blog-main-item {
+        width: 48%;
+    }
+    .main-blog-item-title a {
+        font-size: 11.4px;
+    }
+    .main-blog-item-date {
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+    .main-blog-flex {
+        margin-bottom: 27px;
+    }
+    .flex-instagram {
+        padding: 0 26px;
+        margin-bottom: 10px;
+    }
+    .instagram-item-last {
+        padding-left: 10px;
+    }
+    .instagram-item-last img {
+        max-width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .flex-instagram-mobile-last .instagram-item img{
+        height: 100%;
+    }
+    .flex-instagram-mobile-last .instagram-item:first-child {
+        width: 39%;
+    }
+    .footer-min-mobile {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        align-items: center;
+    }
+    .footer-grey {
+        margin-top: 28px;
+    }
+    .min-footer-brand {
+        margin-bottom: 18px;
+    }
+    .footer-flex-item-link-title a {
+        font-weight: bold;
+        color: #000;
+    }
+    .footer-flex-item-link {
+        font-size: 13px;
+    }
+    .border-footer a {
+        color: #000;
+    }
+    .it-tehnology-text {
+        font-size: 12px;
+    }
+    .it-tehnology img {
+        width: 70px;
+        margin-bottom: 10px;
+        margin-left: 8px;
+    }
+    .tablet-social-footer {
+        padding: 0 26px;
+    }
+    .tablet-social-footer .modal-social-flex a {
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+    #burger-content {
+        width: 100%;
     }
 }
