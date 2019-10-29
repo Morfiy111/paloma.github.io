@@ -1420,4 +1420,11 @@ button.close {
     .main-advantages-block {
         margin-bottom: 15px;
     }
+    .advantages-icon-item img {
+        width: 75px;
+    }
+    .advantages-icon-title {
+        text-align: left;
+        font-size: 14px;
+    }
 }
