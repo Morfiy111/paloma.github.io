@@ -98,7 +98,7 @@ a:focus {
 }
 .gamburger-block, .logo-header {
     width: 33.3%;
-    padding-left: 26px;
+    padding-left: 43px;
 }
 nav {
     text-align: center;
@@ -200,7 +200,7 @@ nav li:hover > .submenu {
     margin-top: 0;
 }
 .logo-header {
-    padding-left: 62px;
+    padding-left: 13px;
 }
 .owl-dot {
     width: 12px;
@@ -522,7 +522,7 @@ nav li:hover > .submenu {
     padding: 20px 48px;
 }
 .min-advantages-item {
-    width: 274px;
+    width: 250px;
 }
 .main-advantages-block .category-item-block {
     position: relative;
@@ -727,7 +727,7 @@ nav li:hover > .submenu {
     height: 100%;
     width: 520px;
     top: 0;
-    left: -700px;
+    left: -900px;
     overflow: auto;
     padding: 13px 15px;
     background: #fff;
@@ -900,6 +900,11 @@ button.close {
 }
 .advantages-description-mobile {
     display: none;
+}
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
 }
 @media (max-width: 991px) {
     .gamburger-block {
