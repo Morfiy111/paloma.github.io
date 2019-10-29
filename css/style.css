@@ -64,7 +64,7 @@ a:focus {
     display: block;
     width: 21px;
     position: absolute;
-    top: 18px;
+    top: 15px;
 }
 .main-page-search {
     height: 60px;
@@ -662,11 +662,14 @@ nav li:hover > .submenu {
 .footer-flex-item-link-title {
     font-weight: bold;
 }
-.footer-input {
-    background-image: url("../images/send.png");
-    background-repeat: no-repeat;
-    background-position-x: right;
-    background-position-y: center;
+.border-footer {
+    position: relative;
+}
+.border-footer img {
+    position: absolute;
+    cursor: pointer;
+    right: 0;
+    top: 22px;
 }
 .footer-flex-block {
     display: flex;
