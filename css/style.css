@@ -901,7 +901,7 @@ button.close {
 .advantages-description-mobile {
     display: none;
 }
-@media (min-width: 992px) {
+@media (max-width: 1199px) {
     .container {
         width: 970px;
     }
