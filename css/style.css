@@ -1536,4 +1536,67 @@ button.close {
         width: 100%;
         background-image: none;
     }
+    .cart_content .continue {
+        top: -2px;
+        right: 8px;
+    }
+    .cart_content .continue img {
+        width: 22px;
+    }
+    .modal-center-item {
+        padding-left: 0;
+        width: 100%;
+    }
+    #menu-left-acide a {
+        font-size: 14px;
+    }
+    #menu-left-acide > ul > li {
+        margin: 0;
+        text-align: center;
+    }
+    #menu-left-acide a {
+        padding: 15px 0px;
+        color: #000;
+        border-bottom: 1px solid #e9e9e9;
+    }
+    .burger-mobile-links {
+        display: flex;
+        justify-content: space-between;
+    }
+    .burger-mobile-link-item {
+        flex-grow: 1;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        width: 25%;
+        padding: 15px 0;
+        box-shadow: 1px 1px 20px #e9e9e9;
+    }
+    .burger-mobile-link-item button {
+        padding: 0;
+        border: none;
+        background-color: transparent;
+        font-size: 10px;
+    }
+    #menu-left-acide {
+        margin-bottom: 12px;
+    }
+    #burger-content {
+        padding: 13px 8px;
+    }
+    .burger-mobile-link-item i {
+        color: #de0588;
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+    .modal-city-block {
+        column-count: 2;
+    }
+    .modal-inputs {
+        flex-direction: column;
+    }
+    .modal-inputs input {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
 }
